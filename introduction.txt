@@ -1,2 +1,1 @@
-Hello, my name is Edward Odey from Nigeria
-I'm an ALX Pathway learner
+Brief Introduction About Myself
