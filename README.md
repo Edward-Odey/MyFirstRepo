@@ -1,2 +1,1 @@
-# MyFirstRepo
-My First Repository for SE 102 - alx Pathway
+This is my first repository created as part of a GitHub learning task
